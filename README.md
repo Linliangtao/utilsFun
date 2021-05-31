@@ -14,11 +14,11 @@ npm i @linlt/utilsfun
 
 ```
 ├─package.json	    // 配置相关
-├─index.js		      // 入口文件
-├─utils				      // 项目文件
-  ├─array		        // 数组类工具函数
-  ├─common	        // 公共函数
-  ├─function        // 方法类工具函数
-  └─object		      // 对象类工具函数
+├─index.js		      
+├─utils				     
+  ├─array		       
+  ├─common	      
+  ├─function        
+  └─object		      
 
 ```
